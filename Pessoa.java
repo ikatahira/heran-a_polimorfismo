@@ -39,6 +39,8 @@ public class Pessoa{
     }
     //clique com o botão direito agora
     //não fiquem bravos rsrs
-    
+ public String obterEtiquetaEndereco(){
+     return this.endereco;
+ }   
 
 }
